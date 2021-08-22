@@ -1,0 +1,17 @@
+a:hover {
+    color: black;
+    background-color: chartreuse;
+}
+
+p strong {
+    color: red;
+    font-size: large;
+}
+
+.destaque {
+    font-size: x-large;
+}
+
+#unico {
+    font-size: 35px;
+}

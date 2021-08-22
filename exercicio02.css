@@ -1,0 +1,57 @@
+p {
+    font-size: 20px;
+    font-style: italic;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: -200px;
+    text-align: center;
+}
+
+table {
+    border: solid 1px;
+    font-style: oblique;
+    font-weight: bolder;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: -100px;
+}
+
+th {
+    border: solid 1px;
+}
+
+td {
+    border: solid 1px;
+}
+
+#verde {
+    background-color: rgb(60, 140, 60);
+}
+
+#green {
+    background-color: rgb(67, 242, 51);
+}
+
+#blue {
+    background-color: rgb(5, 194, 214);
+}
+
+#yellow {
+    background-color: rgb(216, 216, 9);
+}
+
+.imperador {
+    color: rgb(209, 1, 1);
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: pink;
+}

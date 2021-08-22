@@ -1,0 +1,55 @@
+body {
+    background-color: red;
+}
+
+#div1 {
+    background-color: white;
+    padding: 45px;
+    margin-top: 150px;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -60px;
+}
+
+#div2 {
+    background-color: rgb(136, 110, 136);
+    padding: 50px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+#div3 {
+    padding: 50px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: orange;
+    margin-bottom: 10px;
+}
+
+#div6 {
+    background-color: rgb(232, 10, 10);
+    padding: 55px;
+    margin-left: -20px;
+    margin-right: -10px;
+    margin-top: -10px;
+    margin-bottom: 55px;
+    border: 15px solid green;
+    color: rgb(232, 10, 10);
+}
+
+#a1 {
+    color: rgb(3, 107, 3);
+}
+
+#a2 {
+    color: blue;
+}
+
+#a3 {
+    color: white;
+}
+
+#div3 p {
+    font-size: 25px;
+    font-weight: bolder;
+}
